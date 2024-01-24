@@ -1,0 +1,6 @@
+Parts needed:
+1x Front plate (Housing front.dxf). Acrylic 3mm thick
+1x Back plate (Housing back.dxf). Acrylic 3mm thick
+8x Round spacer M3 4mm female/female
+4x Screw M3x5
+4x Screw M3x10
